@@ -1,0 +1,7 @@
+linter:
+    rules:
+        always_specify_types: false
+        omit_local_variable_types: false
+analyzer:
+    errors:
+        unused_local_variable: false
