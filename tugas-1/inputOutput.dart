@@ -13,7 +13,7 @@ import 'dart:io';
 
 void main() {
   DateTime waktu = DateTime.now();
-  int year = waktu.year;
+  int tahun = waktu.year;
 
   print("perkenalan");
   stdout.write("Input Tahun Lahir: ");
@@ -28,6 +28,6 @@ void main() {
   dynamic nama = stdin.readLineSync();
   print("==============");
   stdout.write("Halo.. Nama saya $nama \n");
-  umur = year - umur;
+  umur = tahun - umur;
   stdout.write("Umur saya $umur");
 }
