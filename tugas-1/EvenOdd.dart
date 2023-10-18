@@ -5,7 +5,7 @@
 
 void main() {
   int nilai = 100;
-  ganjil(nilai);
+  // ganjil(nilai);
   genap(nilai);
 }
 

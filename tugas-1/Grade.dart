@@ -16,7 +16,8 @@ import 'dart:io';
 void main() {
   dynamic nilai;
   stdout.write("Masukan nilai anda: ");
-  nilai = stdin.readLineSync();
+  // nilai = stdin.readLineSync();
+  nilai = 60;
   stdout.write(hitung(nilai));
 }
 
