@@ -5,7 +5,7 @@ void main() {
   // triangleLoop();
   // reverseTriangle();
   print("${2 + 2}");
-  String name = "rizky";
+  String name = "collei";
   print(name[2]);
 }
 
